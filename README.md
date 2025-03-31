@@ -35,27 +35,7 @@ This repository contains resources for analyzing and improving OLA' operations a
 - **Data Analysis**: SQL ,Excel 
 - **Data Modeling**: Snowflake schema  
 - **Tools**: Excel, SQL, Power BI Desktop, Power BI Service and Powerpoint.
-
-## 📋 Data Summary
-
-![Data Model](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Data%20Model.png)
-
-## 🏠 Login Page
-
-![Login Page](https://github.com/MADHAN21105/Ola-Operations-Analysis/blob/main/home%20page.png)
-
-## 📊 Executive Dashboard
-
-![Executive Dashboard](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Executive%20Dashboard.png)
-
-## 🏙️ City Dashboard
-
-![City Dashboard](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/City%20Dashboard.png)
-
-## 👨‍👩‍👧 Passenger Dashboard
-
-![Passenger Dashboard](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Passenger%20Dashboard.png)
-
+- 
 ## 💡 Key Insights
 
 * **Ride Volume Trends:** Consistent increase in ride volume in metropolitan cities, with peak usage during weekends and festive seasons.
@@ -66,8 +46,7 @@ This repository contains resources for analyzing and improving OLA' operations a
 
 ## 📎 Links
 
-### 💼 [Linkedin Post](https://www.linkedin.com/posts/pravesh-agarwal27_rpc13-codebasics-codebasicsresumeprojectchallenge-activity-7281602955978420224-dEcn?utm_source=share&utm_medium=member_desktop)
+### 💼 [Linkedin](https://www.linkedin.com/in/madhan-s11072005/)
 
-### 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmY4ZWVjZWItYWQ1MC00ODliLThhZjAtOWYxYjZhMWEzZjU2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=7215aff20df6b576b6e5)
+### 📊 [Live Dashboard](https://app.powerbi.com/groups/me/reports/c7261806-0dab-4ad7-aa31-c3b47557554c/a8acda985cd39e607917?experience=power-bi)
 
-### 🖥️ [Presentation](https://youtu.be/eE4uxsI4Juw)
