@@ -42,7 +42,7 @@ This repository contains resources for analyzing and improving OLA' operations a
 
 ## 🏠 Login Page
 
-![Login Page](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis/blob/main/Resources/BI%20Dashboard/Images/Login%20Page.png)
+![Login Page](https://github.com/MADHAN21105/Ola-Operations-Analysis/blob/main/home%20page.png)
 
 ## 📊 Executive Dashboard
 
