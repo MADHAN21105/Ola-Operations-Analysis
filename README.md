@@ -12,16 +12,16 @@ This repository contains resources for analyzing and improving OLA' operations a
 * Founded in 2010, Ola has grown into one of India's largest ride-hailing companies, revolutionizing urban mobility.
 * It operates in numerous cities across India, offering a range of vehicle types and convenient booking options.
 
-* Vision:
-    * To provide affordable, reliable, and efficient transportation solutions while fostering driver-partner growth and customer satisfaction.
+## Vision:
+ * To provide affordable, reliable, and efficient transportation solutions while fostering driver-partner growth and customer satisfaction.
 ## ⚠️ Problem Statement
 
 *To achieve its ambitious performance targets:
-   - * Trip Volume (Total Trips)
-   - * Repeat Passenger Rate
-   - * Passenger Satisfaction Scores
-   - * Trip Distribution
-   - * Revenue
+   - Trip Volume (Total Trips)
+   -  Repeat Passenger Rate
+   -  Passenger Satisfaction Scores
+   -  Trip Distribution
+   -  Revenue
 
 ## 🎯 Objective
 
