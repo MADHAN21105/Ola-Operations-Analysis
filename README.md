@@ -17,11 +17,11 @@ This repository contains resources for analyzing and improving OLA' operations a
 ## ⚠️ Problem Statement
 
 *To achieve its ambitious performance targets:
-    * Trip Volume (Total Trips)
-    * Repeat Passenger Rate
-    * Passenger Satisfaction Scores
-    * Trip Distribution
-    * Revenue
+   - * Trip Volume (Total Trips)
+   - * Repeat Passenger Rate
+   - * Passenger Satisfaction Scores
+   - * Trip Distribution
+   - * Revenue
 
 ## 🎯 Objective
 
@@ -35,7 +35,7 @@ This repository contains resources for analyzing and improving OLA' operations a
 - **Data Analysis**: SQL ,Excel 
 - **Data Modeling**: Snowflake schema  
 - **Tools**: Excel, SQL, Power BI Desktop, Power BI Service and Powerpoint.
-- 
+
 ## 💡 Key Insights
 
 * **Ride Volume Trends:** Consistent increase in ride volume in metropolitan cities, with peak usage during weekends and festive seasons.
